@@ -52,15 +52,6 @@
         <p><strong>Téléphone :</strong> 675952589 / 652706113</p>
         <p><strong>Email :</strong> solutechmaintenance@gmail.com</p>
         <p><strong>Localisation :</strong> Douala, Cameroun</p>
-        <form action="https://formspree.io/f/your-form-id" method="POST">
-          <label for="nom">Nom :</label>
-          <input type="text" id="nom" name="nom" required>
-          <label for="email">Email :</label>
-          <input type="email" id="email" name="email" required>
-          <label for="message">Message :</label>
-          <textarea id="message" name="message" rows="4" required></textarea>
-          <button type="submit">Envoyer</button>
-        </form>
       </div>
     </section>
   </main>
